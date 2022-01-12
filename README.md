@@ -1,5 +1,5 @@
-# Salut! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Neonlight  
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Neonlight and I am a CSE Undergrad.
 - 👀 I’m interested in Game and Web Development
 - 🌱 I’m currently learning Unity
 
