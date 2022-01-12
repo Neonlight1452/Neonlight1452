@@ -1,4 +1,4 @@
-# Hello There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello Fellas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm Neonlight, a CSE Undergrad.<br>
 Currently: CSE Student at SRM University,Chennai.
 - 👀 I’m interested in Game and Web Development.
