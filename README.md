@@ -2,4 +2,4 @@
 - 👀 I’m interested in Game and Web Development
 - 🌱 I’m currently learning Unity
 
-![Neonlight's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neonlight1452&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neonlight1452&show_icons=true&theme=radical)
+![Neonlight's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neonlight1452&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neonlight1452&show_icons=true&theme=radical)
