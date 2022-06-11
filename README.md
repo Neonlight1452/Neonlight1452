@@ -5,4 +5,4 @@ Currently: CSE Student at SRM University,Chennai.
 - 🌱 I’m currently learning JavaScript.
 
 ![Samyukta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neonlight1452&show_icons=true&theme=midnight-purple)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neonlight1452&hide=javascript,css,scss,html&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neonlight1452)](https://github.com/Neonlight1452/github-readme-stats)
