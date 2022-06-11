@@ -1,4 +1,4 @@
-# Hello Fellas! 
+# Hello Fellas! ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 I'm Samyukta, a CSE Undergrad.<br>
 Currently: CSE Student at SRM University,Chennai.
 - 👀 I’m interested in Game and Web Development.
