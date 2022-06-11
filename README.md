@@ -1,5 +1,4 @@
-# Hello Fellas! 
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+# Hello Fellas! ✌🏻
 I'm Samyukta, a CSE Undergrad.<br>
 Currently: CSE Student at SRM University,Chennai.
 - 👀 I’m interested in Game and Web Development.
