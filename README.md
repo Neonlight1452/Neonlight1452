@@ -1,4 +1,4 @@
-# Hello Fellas! ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+# Hello Fellas! <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 I'm Samyukta, a CSE Undergrad.<br>
 Currently: CSE Student at SRM University,Chennai.
 - 👀 I’m interested in Game and Web Development.
